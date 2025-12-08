@@ -1,4 +1,4 @@
-# 🗒 ToDo 관리 REST API 서버
+#  ToDo 관리 REST API 서버
 
 > Spring Security 인증부터 AWS 배포까지 전체 개발 주기를 경험한 실무 중심 학습 프로젝트
 
@@ -7,7 +7,7 @@
 [![Docker](https://img.shields.io/badge/Docker-Latest-blue.svg)](https://www.docker.com/)
 [![AWS](https://img.shields.io/badge/AWS-EC2-orange.svg)](https://aws.amazon.com/ec2/)
 
-## 📋 목차
+##  목차
 
 - [프로젝트 소개](#-프로젝트-소개)
 - [핵심 성과](#-핵심-성과)
@@ -16,7 +16,7 @@
 
 ---
 
-## 🎯 프로젝트 소개
+##  프로젝트 소개
 
 .NET 인턴 경험 후 Spring Boot 생태계 재학습을 위해 진행한 프로젝트.  
 인증 시스템부터 실제 운영 환경 배포까지 전 과정을 직접 구현하며 실무 역량 강화.
@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 핵심 성과
+##  핵심 성과
 
 ### 1. JWT 기반 인증 시스템 구현
 
@@ -70,7 +70,7 @@ EC2 자동 배포
 
 ---
 
-## 🛠 기술 스택
+##  기술 스택
 
 ### Backend
 - **Framework**: Spring Boot 3.4.6
@@ -89,7 +89,7 @@ EC2 자동 배포
 
 ---
 
-## ✨ 주요 기능
+##  주요 기능
 
 ### 1. 인증 시스템
 - Spring Security + JWT 기반 Stateless 인증
@@ -109,13 +109,13 @@ EC2 자동 배포
 
 ---
 
-## 🔗 링크
+##  링크
 - **Backend Repository**: https://github.com/greatCloud13/ToDo_Restful_API_Application
 - **Frontend Repository**: https://github.com/greatCloud13/ToDo_Restful_API_Application_Front
 
 ---
 
-## 📝 개선 방향 (향후 계획)
+##  개선 방향 (향후 계획)
 - [ ] Spring Boot 테스트 커버리지 확대 (JUnit 5, Mockito)
 - [ ] Redis Session Storage 도입 (Refresh Token 관리)
 - [ ] 로그 모니터링 (ELK Stack)
